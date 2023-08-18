@@ -1,0 +1,4 @@
+How to play
+You open your command prompt, copy the file path of the game from your computer after downloading it and type in “cd (path)”. Path refers to the location of the file which you simply just copy from the file and paste into the command prompt. After that to begin the game you type “python Game.py” into the command prompt and it should play the game. I provide the player with multiple options for their answers in terms of the format, for example, the player can type “yes”, “Yes, or “YES”. I also provided options so players can see what they are meant to type however, I also allowed different variations of the phrase. It is necessary to place the file in local storage rather than something like one drive. Here is an example.
+
+A more detailed version can be found in my design journal with an image.
